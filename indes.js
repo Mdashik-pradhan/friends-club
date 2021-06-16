@@ -1,1 +1,0 @@
-const Ashik = 'hello'
